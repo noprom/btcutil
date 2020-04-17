@@ -11,8 +11,8 @@ import (
 	"testing"
 
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/noprom/btcutil"
 )
 
 // TestTx tests the API for Tx.
